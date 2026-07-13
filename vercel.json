@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/analyze-vocal.js": { "maxDuration": 60 }
+  }
+}

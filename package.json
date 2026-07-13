@@ -1,0 +1,7 @@
+{
+  "name": "smms-vocal-analysis-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SMMS 보컬 녹음 AI 분석 서버리스 함수 (Vercel). OpenAI API 키를 서버 쪽에 안전하게 보관하기 위한 최소 백엔드.",
+  "engines": { "node": ">=18" }
+}
